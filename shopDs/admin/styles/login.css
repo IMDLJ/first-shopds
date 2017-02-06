@@ -1,0 +1,21 @@
+.comWidth{width: 1000px;margin-left: auto;margin-right: auto;}
+
+/*topBar*/
+.headerBar .logoBar{height: 85px;background-color: #1d7ad9;}
+.logo{padding-left: 41px;padding-top: 13px;}
+
+/*登陆*/
+.login_logo .comWidth{width: 460px;}
+.welcome_title{font:22px/85px "microsoft yahei"; color: #fff; float: left; padding-left: 24px;}
+.loginBox{width: 458px; border: 1px solid #ccc; margin: 10px auto; position: relative;}
+.login_cont{ padding: 15px 76px;}
+.l_tit{color: #666; line-height: 20px;}
+.login_input{border: 1px solid #ccc; height: 32px; line-height: 32px\9; text-indent: 5px; width: 100%;}
+.user_icon{background: url(../images/icon/username.png) right center no-repeat;}
+.pass_icon{background: url(../images/icon/password.png) right center no-repeat;}
+.mb_10{margin-bottom: 10px;}
+.autoLogin{padding-top: 17px; padding-bottom: 28px;}
+.checked{position: relative; top:3px; margin-right: 3px;}
+.login_btn{width: 306px; height: 36px; background: url(../images/icon/btn_bg.png) repeat-x;
+		border: 1px solid #d0e4f9;background-position: 36px; font-size: 16px; border-radius: 4px; overflow: hidden;}
+

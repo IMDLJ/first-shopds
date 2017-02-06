@@ -1,0 +1,38 @@
+/*登陆*/
+.login_logo .comWidth{width: 460px;}
+.welcome_title{font:22px/85px "microsoft yahei"; color: #fff; float: left; padding-left: 24px;}
+.loginBox{width: 458px; border: 1px solid #ccc; margin: 10px auto; position: relative;}
+.login_cont{ padding: 15px 76px;}
+.l_tit{color: #666; line-height: 20px;}
+.login_input{border: 1px solid #ccc; height: 32px; line-height: 32px\9; text-indent: 5px; width: 100%;}
+.user_icon{background: url(../images/icon/username.png) right center no-repeat;}
+.pass_icon{background: url(../images/icon/password.png) right center no-repeat;}
+.mb_10{margin-bottom: 10px;}
+.autoLogin{padding-top: 17px; padding-bottom: 28px;}
+.checked{position: relative; top:3px; margin-right: 3px;}
+.pad_r{padding-right: 10px;}
+.forgot_pas:hover{text-decoration: underline;}
+.login_btn{width: 306px; height: 36px; background: url(../images/icon/btn_bg.png) repeat-x;
+		border: 1px solid #d0e4f9;background-position: 36px; font-size: 16px; border-radius: 4px; overflow: hidden;}
+.login_partners{padding-top: 34px;}
+.login_list li{float: left; line-height: 20px;}
+.login_list span{color: #999; margin: 0 2px;}
+.login_list .more{background: url(../images/icon/down_grey.png) right center no-repeat; padding-right: 10px;}
+.login_list a:hover{text-decoration: underline;}
+.reg_link{display: inline-block; height: 31px; line-height: 31px; padding:0 20px; color: #fff;
+		background-color: #7cbe56; position: absolute; right: 40px; font-size: 16px;bottom: -31px;}
+
+/*注册*/
+.reg_logo .comWidth{width: 630px;}
+.regBox{width: 628px; margin: 10px auto; border: 1px solid #ccc;}
+.regBox .login_cont{padding:35px 76px 20px 76px;}
+.res_item{font-size: 14px; line-height: 34px; width: 110px; text-align: right; float: left;}
+.res_item i{font-style: normal; color: red; margin-right: 5px;}
+.input_item{width: 306px;float: left;}
+.regBox li{height: 70px;vertical-align: top;}
+.regBox .res_agree{height: 46px;}
+.reg_btn{width: 306px; height: 36px; background: url(../images/icon/btn_bg.png) repeat-x;
+		border: 1px solid #d0e4f9;background-position: 36px; font-size: 16px; border-radius: 4px; overflow: hidden;}
+.radio_divbox{line-height:34px;}
+.radio_divbox input{position: relative; top: 3px; margin-right: 2px;}
+.file_divbox{line-height:32px;}
